@@ -1,0 +1,58 @@
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2022-06-22 15:37:57
+count workspace : c:\Users\steel\OneDrive - Acadia University\Desktop\Programming\! MMOItems Config Wrappers
+total files : 18
+total code lines : 7461
+total comment lines : 14
+total blank lines : 216
+
+__init__.py, code is 0, comment is 0, blank is 0.
+abc\AdvancedAttribute.py, code is 26, comment is 0, blank is 6.
+abc\DropTableRecord.py, code is 18, comment is 0, blank is 6.
+abc\ItemGlow.py, code is 15, comment is 0, blank is 4.
+abc\ItemModifier.py, code is 8, comment is 0, blank is 4.
+abc\MMOItemTemplate.py, code is 15, comment is 5, blank is 9.
+abc\MMOStatistics.py, code is 44, comment is 5, blank is 9.
+abc\ScaledAttribute.py, code is 13, comment is 0, blank is 5.
+enums\Color.py, code is 23, comment is 0, blank is 3.
+enums\Material.py, code is 8, comment is 0, blank is 5.
+item-tiers\DeconstructionChance.py, code is 17, comment is 0, blank is 4.
+item-tiers\Generation.py, code is 18, comment is 1, blank is 7.
+item-tiers\ItemTier.py, code is 54, comment is 1, blank is 9.
+item-tiers\Unidentification.py, code is 21, comment is 0, blank is 5.
+item-types\ItemType.py, code is 24, comment is 0, blank is 7.
+materials.json, code is 7142, comment is 0, blank is 127.
+new-materials.json, code is 1, comment is 0, blank is 0.
+util\ConfigBuilder.py, code is 14, comment is 2, blank is 6.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecount
+EXTENSION VERSION : 0.1.7
+-------------------------------------------------------------------------------
+count time : 2022-06-22 15:38:20
+count workspace : c:\Users\steel\OneDrive - Acadia University\Desktop\Programming\! MMOItems Config Wrappers
+total files : 16
+total code lines : 318
+total comment lines : 14
+total blank lines : 89
+
+__init__.py, code is 0, comment is 0, blank is 0.
+abc\AdvancedAttribute.py, code is 26, comment is 0, blank is 6.
+abc\DropTableRecord.py, code is 18, comment is 0, blank is 6.
+abc\ItemGlow.py, code is 15, comment is 0, blank is 4.
+abc\ItemModifier.py, code is 8, comment is 0, blank is 4.
+abc\MMOItemTemplate.py, code is 15, comment is 5, blank is 9.
+abc\MMOStatistics.py, code is 44, comment is 5, blank is 9.
+abc\ScaledAttribute.py, code is 13, comment is 0, blank is 5.
+enums\Color.py, code is 23, comment is 0, blank is 3.
+enums\Material.py, code is 8, comment is 0, blank is 5.
+item-tiers\DeconstructionChance.py, code is 17, comment is 0, blank is 4.
+item-tiers\Generation.py, code is 18, comment is 1, blank is 7.
+item-tiers\ItemTier.py, code is 54, comment is 1, blank is 9.
+item-tiers\Unidentification.py, code is 21, comment is 0, blank is 5.
+item-types\ItemType.py, code is 24, comment is 0, blank is 7.
+util\ConfigBuilder.py, code is 14, comment is 2, blank is 6.
+===============================================================================

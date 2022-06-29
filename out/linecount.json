@@ -1,0 +1,231 @@
+{
+    "extension": "linecount",
+    "version": "0.1.7",
+    "workspace": "c:\\Users\\steel\\OneDrive - Acadia University\\Desktop\\Programming\\! MMOItems Config Wrappers",
+    "linecount": [
+        {
+            "version": "0.1.7",
+            "counttime": "2022-06-22 15:37:57",
+            "filesum": 18,
+            "codesum": 7461,
+            "commentsum": 14,
+            "blanksum": 216,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "__init__.py"
+                },
+                {
+                    "blank": 6,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "abc\\AdvancedAttribute.py"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "abc\\DropTableRecord.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "abc\\ItemGlow.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "abc\\ItemModifier.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "abc\\MMOItemTemplate.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 44,
+                    "comment": 5,
+                    "filename": "abc\\MMOStatistics.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "abc\\ScaledAttribute.py"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "enums\\Color.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "enums\\Material.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "item-tiers\\DeconstructionChance.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "item-tiers\\Generation.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 54,
+                    "comment": 1,
+                    "filename": "item-tiers\\ItemTier.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "item-tiers\\Unidentification.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "item-types\\ItemType.py"
+                },
+                {
+                    "blank": 127,
+                    "code": 7142,
+                    "comment": 0,
+                    "filename": "materials.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "new-materials.json"
+                },
+                {
+                    "blank": 6,
+                    "code": 14,
+                    "comment": 2,
+                    "filename": "util\\ConfigBuilder.py"
+                }
+            ]
+        },
+        {
+            "version": "0.1.7",
+            "counttime": "2022-06-22 15:38:20",
+            "filesum": 16,
+            "codesum": 318,
+            "commentsum": 14,
+            "blanksum": 89,
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "__init__.py"
+                },
+                {
+                    "blank": 6,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "abc\\AdvancedAttribute.py"
+                },
+                {
+                    "blank": 6,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "abc\\DropTableRecord.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "abc\\ItemGlow.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "abc\\ItemModifier.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 15,
+                    "comment": 5,
+                    "filename": "abc\\MMOItemTemplate.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 44,
+                    "comment": 5,
+                    "filename": "abc\\MMOStatistics.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "abc\\ScaledAttribute.py"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 0,
+                    "filename": "enums\\Color.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "enums\\Material.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "item-tiers\\DeconstructionChance.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": "item-tiers\\Generation.py"
+                },
+                {
+                    "blank": 9,
+                    "code": 54,
+                    "comment": 1,
+                    "filename": "item-tiers\\ItemTier.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 21,
+                    "comment": 0,
+                    "filename": "item-tiers\\Unidentification.py"
+                },
+                {
+                    "blank": 7,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "item-types\\ItemType.py"
+                },
+                {
+                    "blank": 6,
+                    "code": 14,
+                    "comment": 2,
+                    "filename": "util\\ConfigBuilder.py"
+                }
+            ]
+        }
+    ]
+}
